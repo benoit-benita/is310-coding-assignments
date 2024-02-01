@@ -1,8 +1,14 @@
 ## Jan. 300th, 2024
 ### Assignment 1: Inspecting the Web
-what i investigated 
-link to website i investigated
-the github link?
-What web technologies (that is HTML, CSS, or JavaScript) were used to build the tool? Are there files that end in .html, .css, or .js? What about files you don’t recognize?
-Who built this website? How many people were involved? How can you tell?
-screenshot of 
+[For this I decided to look into the UIUC Digital Collections website](https://digital.library.illinois.edu/)
+Inspecting their page, I saw they they were using HTML to build the website and the look up tool. 
+I couldnt specifically find a github for the archive library but I did find 
+[the UIUC Library Github thats connected to 140 different repositories](https://github.com/UIUCLibrary)
+It looks like coding wise, the university uses:
+- Python
+- PHP
+- Ruby
+- Groovy
+- Powershell
+
+![alt text](Screenshot 2024-02-01 132755.png)
