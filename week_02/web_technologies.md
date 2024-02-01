@@ -11,4 +11,4 @@ It looks like coding wise, the university uses:
 - Groovy
 - Powershell
 
-![alt text](Screenshot2024-02-01132755.png)
+![alt text](htmlscreenshot.jpeg)
